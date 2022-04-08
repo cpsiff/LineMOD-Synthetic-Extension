@@ -1,0 +1,3 @@
+blenderproc run examples/datasets/bop_object_pose_sampling/main.py <path_to_bop_data> <bop_dataset_name> examples/datasets/bop_object_pose_sampling/output
+
+blenderproc run main.py lm lm output
