@@ -1,0 +1,10 @@
+.vscode/
+backgrounds/
+synthetic_datasets/
+synthetic_preprocessed/
+*.zip
+lm_test_all.zip
+output/
+lm_test_all/
+lm_test_all_original/
+lm/

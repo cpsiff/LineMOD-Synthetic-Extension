@@ -105,5 +105,6 @@ with open(os.path.join(MODELS_PATH, 'models_info.json')) as json_file:
 
 
 # steps to do manually afterwards:
-# - Copy over models_info.yml from the preprocessed linemod dataset
+# - Copy over models_info.yml from the preprocessed linemod dataset (might not need to do manually?)
 # - find and replace all instance of a single quote (') in gt.yml and info.yml with nothing
+# - change test/train split if you want to test all the images in the folder (just copy lines around, alternatively you can make test portion = 1)
